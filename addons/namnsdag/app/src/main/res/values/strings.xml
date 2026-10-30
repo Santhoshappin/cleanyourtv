@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Name days</string>
+    <!-- %1$s is one name or several joined with the word in "and": "Elsa and Isabella". -->
+    <string name="names_today">Today\'s name day: %1$s</string>
+    <string name="no_names_today">No name day today</string>
+    <string name="and">and</string>
+    <string name="tomorrow">Tomorrow: %1$s</string>
+    <string name="coming_days">Coming days</string>
+    <string name="find_name">Find a name</string>
+    <string name="find_hint">A name, such as Erik</string>
+    <string name="find">Find</string>
+    <string name="cancel">Cancel</string>
+    <string name="found_today">%1$s has a name day today.</string>
+    <string name="found_tomorrow">%1$s has a name day tomorrow.</string>
+    <!-- %2$s is the date ("18 May"), %3$s the days_away text. -->
+    <string name="found_on">%1$s has a name day on %2$s, %3$s.</string>
+    <plurals name="days_away">
+        <item quantity="one">in %d day</item>
+        <item quantity="other">in %d days</item>
+    </plurals>
+    <string name="not_found">%1$s is not in the Swedish name-day list.</string>
+</resources>

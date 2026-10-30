@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Namnsdagar</string>
+    <string name="names_today">Idag har %1$s namnsdag</string>
+    <string name="no_names_today">Ingen namnsdag idag</string>
+    <string name="and">och</string>
+    <string name="tomorrow">I morgon: %1$s</string>
+    <string name="coming_days">Kommande dagar</string>
+    <string name="find_name">Sök namn</string>
+    <string name="find_hint">Ett namn, till exempel Erik</string>
+    <string name="find">Sök</string>
+    <string name="cancel">Avbryt</string>
+    <string name="found_today">%1$s har namnsdag idag.</string>
+    <string name="found_tomorrow">%1$s har namnsdag i morgon.</string>
+    <string name="found_on">%1$s har namnsdag den %2$s, %3$s.</string>
+    <plurals name="days_away">
+        <item quantity="one">om %d dag</item>
+        <item quantity="other">om %d dagar</item>
+    </plurals>
+    <string name="not_found">%1$s finns inte i den svenska namnlängden.</string>
+</resources>
